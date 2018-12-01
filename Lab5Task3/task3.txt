@@ -1,0 +1,25 @@
+NAME: Sergerius 
+ID: 6 
+Salary per hour: 5.0E8 
+TOTAL salary: 8.32E10
+NAME: Regina 
+ID: 2 
+Salary per hour: 1000000.0 
+TOTAL salary: 1.664E8
+NAME: Maryna 
+ID: 0 
+Salary per hour: 50000.0 
+TOTAL salary: 8320000.0
+NAME: Denys 
+ID: 4 
+TOTAL salary: 34567.0
+NAME: Masha 
+ID: 1 
+Salary per hour: 200.0 
+TOTAL salary: 33280.0
+NAME: Vasilevs 
+ID: 5 
+TOTAL salary: 5777.0
+NAME: Anya 
+ID: 3 
+TOTAL salary: 4000.0
